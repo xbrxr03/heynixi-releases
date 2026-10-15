@@ -1,2 +1,1 @@
-# heynixi-releases
-Downloads for heynixi
+Downloads for heynixi. Get it at https://heynixi.app
